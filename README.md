@@ -1,2 +1,1 @@
-# kubernetes-reference
-Kubernetes Resource Reference
+# Kubernetes Resource Reference
